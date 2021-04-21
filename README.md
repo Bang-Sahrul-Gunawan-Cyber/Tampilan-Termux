@@ -10,3 +10,4 @@
 # Tinggal Hapus Tugas Termux
 # Ketik login lalu enter
 # Sukses Berhasil
+# Note . Tidak Support Yang sudah menginstall termux-ohmz
